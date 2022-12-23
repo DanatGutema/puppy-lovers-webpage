@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#banner-image img{
+width: 100%;
+}
+.top-container .container{
+    display:flex;
+}
+.title-wrapper {
+    font-size: 30px;
+    font-weight: 700;
+    display: block;
+    position:relative;
+    padding: 20px;
+    text-align: center;
+    color:white;
+}
+.vertical-images {
+    display: flex;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.first-image {
+    width: 32%;
+}
+.middle-image {
+    background-color: red;
+  margin: 0 2%;
+  border-radius: 50%
+}
+header {
+    background-color: #085070;
+}
+
+.top-container {
+   margin: 85px 0 65px;
+   display: flex;
+}
+
+.section-title {
+    font-size: 30px;
+    margin-bottom: 75px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.puppy-container-vertical {
+    width: 45%;
+}
+.left {
+    margin-right: 5%;
+}
+.right{
+    margin-left: 5%;
+}
+footer {
+    background-color: #085070;
+    padding: 100px 0;
+    margin-top: 75px;
+}
+.credits {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.puppy-missing {
+    padding: 100px;
+  font-size: 25px;
+  text-align: center;
+}
